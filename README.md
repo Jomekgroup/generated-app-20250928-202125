@@ -1,6 +1,6 @@
 # Cleenly: The Future of Clean
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Jomekgroup/generated-app-20250928-202125)
 
 Cleenly is a premium, minimalist web platform designed to seamlessly connect professional cleaning service providers with clients across Nigeria. The application will serve two primary user roles: Clients seeking cleaning services and Cleaners offering their expertise. Clients can browse detailed cleaner profiles, view available services, and book appointments through a secure, integrated system. Cleaners can create a professional profile, list their services and pricing, manage their bookings, and opt for a premium subscription to gain enhanced visibility and features. The platform will facilitate secure one-time payments for completed services and manage recurring monthly subscriptions for premium cleaners, creating a trusted and efficient marketplace for the cleaning industry.
 
@@ -83,7 +83,7 @@ This command will build the Vite frontend, bundle the Hono worker, and deploy th
 
 Alternatively, you can deploy your own version of this project with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Jomekgroup/generated-app-20250928-202125)
 
 ## 📂 Project Structure
 
